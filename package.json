@@ -1,7 +1,7 @@
 {
-  "name": "electron-react-sass",
+  "name": "electron-react-babel",
   "version": "1.0.0",
-  "description": "A minimal Electron application for react + sass",
+  "description": "A minimal Electron application for react + babel",
   "main": "main.js",
   "scripts": {
     "start": "./node_modules/.bin/electron  main.js",
